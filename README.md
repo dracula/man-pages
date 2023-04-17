@@ -24,6 +24,7 @@ M1 location
 
   export MANPAGER="/opt/homebrew/bin/less -s -M +Gg"
 
+![less](https://user-images.githubusercontent.com/96319944/232546079-ffad4342-9904-4d1e-9131-14af8bd36eb6.png)
 
 ## Step 2
 
