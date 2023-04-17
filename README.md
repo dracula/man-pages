@@ -11,7 +11,7 @@ Man-pages can now be themed universally meaning the same code works for both Dra
 
 The only requirement is using [less](https://man7.org/linux/man-pages/man1/less.1.html) for MANPAGER
 
-Step 1
+**Step 1**
 
 Add this first to your .zshrc to use less as MANPAGER:
 
@@ -23,7 +23,7 @@ M1 location
 
   export MANPAGER="/opt/homebrew/bin/less -s -M +Gg"
 
-Step 2
+**Step 2**
 
 Then simply add this to your .zshrc to define the colors:
 
