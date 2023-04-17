@@ -1,8 +1,9 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula Universal for [man-pages]
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [man-pages]
 
-![Screenshot](./screenshot.png)
+![Screenshot![man](https://user-images.githubusercontent.com/96319944/232507545-1e08c499-f41c-4258-a036-3086d5732b52.png)
+
 
 ## Install
 
@@ -10,11 +11,11 @@ All instructions can be found at [draculatheme.com/foobar](https://draculatheme.
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+| [![urrickhunt](https://github.com/urrickhunt.png?size=100)](https://github.com/urrickhunt) |
 | ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [urrickhunt](https://github.com/urrickhunt)                                               |
 
 ## Community
 
