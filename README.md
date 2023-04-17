@@ -1,6 +1,6 @@
 # Dracula Universal for [man-pages](https://man7.org/linux/man-pages/man1/man.1.html)
 
-> A dark theme for [man-pages](https://man7.org/linux/man-pages/man1/man.1.html)
+> Dracula Universal theme for [man-pages](https://man7.org/linux/man-pages/man1/man.1.html)
 
 ![man](https://user-images.githubusercontent.com/96319944/232507545-1e08c499-f41c-4258-a036-3086d5732b52.png)
 
