@@ -17,11 +17,13 @@ Add this first to your .zshrc to use [less](https://man7.org/linux/man-pages/man
 
   export MANPAGER="/usr/bin/less -s -M +Gg"
 
+
 Please note the location of [less](https://man7.org/linux/man-pages/man1/less.1.html) may be different on macOS
 
 M1 location
 
   export MANPAGER="/opt/homebrew/bin/less -s -M +Gg"
+
 
 ## Step 2
 
