@@ -40,7 +40,7 @@ export LESS_TERMCAP_se=$'\e[0m'
 export LESS_TERMCAP_ue=$'\e[0m'        
 export GROFF_NO_SGR=1                        
 
-![colors](https://user-images.githubusercontent.com/96319944/232546262-b6502f58-5040-4e1b-ab14-4ca99e57799d.png)
+![colors](https://user-images.githubusercontent.com/96319944/232595015-053d22a3-dae8-43f8-8f1d-b4cd23d75fa2.png)
 
 Download config
 
