@@ -40,6 +40,8 @@ export LESS_TERMCAP_se=$'\e[0m'
 export LESS_TERMCAP_ue=$'\e[0m'        
 export GROFF_NO_SGR=1                        
 
+![colors](https://user-images.githubusercontent.com/96319944/232546262-b6502f58-5040-4e1b-ab14-4ca99e57799d.png)
+
 Download config
 
 [manpages.zip](https://github.com/urrickhunt/Dracula-universal-for-manpages/files/11251263/manpages.zip)
