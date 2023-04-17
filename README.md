@@ -27,6 +27,7 @@ Then simply add this to your .zshrc to define the colors:
 export LESS_TERMCAP_mb=$'\e[1;31m'     
 export LESS_TERMCAP_md=$'\e[1;34m'     
 export LESS_TERMCAP_so=$'\e[01;45;37m' 
+
 export LESS_TERMCAP_us=$'\e[01;36m'    
 export LESS_TERMCAP_me=$'\e[0m'        
 export LESS_TERMCAP_se=$'\e[0m'        
