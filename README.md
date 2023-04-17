@@ -7,7 +7,36 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+Man-pages can now be themed universally meaning the same code works for both Dracula & Dracula Pro.
+
+The only requirement is using [less](https://man7.org/linux/man-pages/man1/less.1.html) for MANPAGER
+
+Add this first to your .zshrc to use less as MANPAGER:
+
+  export MANPAGER="/usr/bin/less -s -M +Gg"
+
+Please note the location of less may be different on macOS
+
+M1 location
+
+  export MANPAGER="/opt/homebrew/bin/less -s -M +Gg"
+
+
+Then simply add this to your .zshrc to define the colors:
+
+  export LESS_TERMCAP_mb=$'\e[1;31m'
+  export LESS_TERMCAP_md=$'\e[1;34m'
+  export LESS_TERMCAP_so=$'\e[01;45;37m'
+  export LESS_TERMCAP_us=$'\e[01;36m'
+  export LESS_TERMCAP_me=$'\e[0m'
+  export LESS_TERMCAP_se=$'\e[0m'
+  export LESS_TERMCAP_ue=$'\e[0m'
+  export GROFF_NO_SGR=1
+
+Download config
+
+[manpages.zip](https://github.com/urrickhunt/Dracula-universal-for-manpages/files/11251263/manpages.zip)
+
 
 ## Team
 
