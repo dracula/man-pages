@@ -13,7 +13,7 @@ The only requirement is using [less](https://man7.org/linux/man-pages/man1/less.
 
 ## Step 1
 
-Add this first to your .zshrc to use less as MANPAGER:
+Add this first to your .zshrc to use [less](https://man7.org/linux/man-pages/man1/less.1.html) as MANPAGER:
 
   export MANPAGER="/usr/bin/less -s -M +Gg"
 
