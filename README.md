@@ -31,7 +31,7 @@ export LESS_TERMCAP_us=$'\e[01;36m'
 export LESS_TERMCAP_me=$'\e[0m'        
 export LESS_TERMCAP_se=$'\e[0m'        
 export LESS_TERMCAP_ue=$'\e[0m'        
-export GROFF_NO_SGR=1   
+export GROFF_NO_SGR=1                         
 
 
 
