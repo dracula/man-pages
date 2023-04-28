@@ -12,7 +12,7 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 #### Install manually
 
-- Download using the [manpages.zip](https://github.com/urrickhunt/Dracula-universal-for-manpages/files/11251263/manpages.zip) link or
+- Download using the [manpages.zip](https://github.com/dracula/man-pages/files/11354972/manpages.zip) link or
 - Download using the [GitHub `.zip` download](https://github.com/dracula/man-pages/archive/refs/heads/main.zip) option and unzip them.
 
 #### Requirements
