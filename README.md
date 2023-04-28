@@ -43,7 +43,7 @@ Then simply add this to your .zshrc to define the colors:
 
 Download config
 
-[manpages.zip](https://github.com/urrickhunt/Dracula-universal-for-manpages/files/11251263/manpages.zip)
+[manpages.zip](https://github.com/dracula/man-pages/files/11354972/manpages.zip)
 
 
 ## Team
