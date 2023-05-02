@@ -1,58 +1,20 @@
-# Dracula Universal for [man-pages](https://man7.org/linux/man-pages/man1/man.1.html)
+# Dracula for [man-pages](https://man7.org/linux/man-pages/man1/man.1.html)
 
-> Dracula Universal theme for [man-pages](https://man7.org/linux/man-pages/man1/man.1.html)
+> A dark theme for [man-pages](https://man7.org/linux/man-pages/man1/man.1.html).
 
-![man](https://user-images.githubusercontent.com/96319944/232594745-3ad2644c-682e-4ea9-82e6-dbf91028f78b.png)
-
+![Screenshot](./screenshot.png)
 
 ## Install
 
-Man-pages can now be themed universally meaning the same code works for both Dracula & Dracula Pro.
-
-The only requirement is using [less](https://man7.org/linux/man-pages/man1/less.1.html) for MANPAGER
-
-## Step 1
-
-Add this first to your .zshrc to use [less](https://man7.org/linux/man-pages/man1/less.1.html) as MANPAGER:
-
-  export MANPAGER="/usr/bin/less -s -M +Gg"
-
-
-Please note the location of [less](https://man7.org/linux/man-pages/man1/less.1.html) may be different on macOS
-
-M1 location
-
-  export MANPAGER="/opt/homebrew/bin/less -s -M +Gg"
-
-![less](https://user-images.githubusercontent.com/96319944/232594938-f9357c93-1f2b-4f1d-aee4-b9511b4b1227.png)
-
-## Step 2
-
-Then simply add this to your .zshrc to define the colors:
-
-        export LESS_TERMCAP_mb=$'\e[1;31m'      # begin bold
-        export LESS_TERMCAP_md=$'\e[1;34m'      # begin blink
-        export LESS_TERMCAP_so=$'\e[01;45;37m'  # begin reverse video
-        export LESS_TERMCAP_us=$'\e[01;36m'     # begin underline
-        export LESS_TERMCAP_me=$'\e[0m'         # reset bold/blink
-        export LESS_TERMCAP_se=$'\e[0m'         # reset reverse video
-        export LESS_TERMCAP_ue=$'\e[0m'         # reset underline
-        export GROFF_NO_SGR=1                   # for konsole                      
-
-![colors](https://user-images.githubusercontent.com/96319944/232595015-053d22a3-dae8-43f8-8f1d-b4cd23d75fa2.png)
-
-Download config
-
-[manpages.zip](https://github.com/dracula/man-pages/files/11354972/manpages.zip)
-
+All instructions can be found at [draculatheme.com/man-pages](https://draculatheme.com/man-pages).
 
 ## Team
 
-This theme is maintained by the following person(s).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![urrickhunt](https://github.com/urrickhunt.png?size=100)](https://github.com/urrickhunt)|
-| ----------------------------------------------------------------------------------------- |
-| [urrickhunt](https://github.com/urrickhunt)                                               |
+| [![urrickhunt](https://github.com/urrickhunt.png?size=100)](https://github.com/urrickhunt) |
+| ------------------------------------------------------------------------------------------ |
+| [urrickhunt](https://github.com/urrickhunt)                                                |
 
 ## Community
 
